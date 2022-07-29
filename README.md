@@ -14,7 +14,7 @@ The frontend challenge to build Image Gallery with Infinite Scroll using React.
 - Make a copy of `.env.example` as `.env` \
   Set `REACT_APP_UNSPLASH_API_KEY` as Unsplash API key
 
-  ## How to Run
+## How to Run
 
 - `yarn start` to start the app
 
